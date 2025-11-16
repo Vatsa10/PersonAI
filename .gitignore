@@ -40,3 +40,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+VERCEL_DEPLOYMENT.md
+DEPLOYMENT_DIGITAL_OCEAN.md
+DEPLOYMENT_SIMPLE.md
+DEPLOYMENT.md
+.uv.ramuhluiaodsaytlwwmhdtitlxuufdgu.__selfdelete__.exe
